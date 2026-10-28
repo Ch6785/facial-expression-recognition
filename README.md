@@ -34,4 +34,4 @@ The system detects the face, predicts its expression, and displays the predicted
 
 ## 4. Link
 
-**GitHub Repository:** Add your GitHub repository URL here.
+ **GitHub Repository:** https://github.com/Ch6785/facial-expression-recognition
